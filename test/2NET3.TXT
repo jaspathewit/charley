@@ -1,0 +1,1426 @@
+
+Generation 0 best network
+#Network consists of 9 links 
+#Link between Chatham 0 and Hastings 0 of speed 19200, costing 240
+#No messages 29.699999 Mess len 512.000000 Link delay 0.128205
+#Link between Southend 0 and Chatham 0 of speed 19200, costing 120
+#No messages 31.639999 Mess len 512.000000 Link delay 0.170648
+#Link between London 0 and Southend 0 of speed 19200, costing 192
+#No messages 8.780000 Mess len 512.000000 Link delay 0.034819
+#Link between Hastings 0 and London 0 of speed 9600, costing 72
+#No messages 4.300000 Mess len 512.000000 Link delay 0.069204
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between London 0 and Hastings 0 of speed 4800, costing 36
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Dover 0 and Hastings 0 of speed 19200, costing 744
+#No messages 29.200001 Mess len 512.000000 Link delay 0.120482
+#Link between Southend 0 and Ashford 0 of speed 19200, costing 792
+#No messages 16.840000 Mess len 512.000000 Link delay 0.048403
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 3.777778 Dup 0.000000 Cost 2.551111 fitness 6.328889
+#and has a cost of 2160.000000
+Generation 1 
+21.710205 6.328889 28.075676
+Generation 2 
+20.738897 6.328889 26.734964
+Generation 3 produced a better network
+#Network consists of 10 links 
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Ashford 0 of speed 19200, costing 792
+#No messages 16.840000 Mess len 512.000000 Link delay 0.048403
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.780000 Mess len 512.000000 Link delay 0.034819
+#Link between Southend 0 and Chatham 0 of speed 19200, costing 120
+#No messages 31.639999 Mess len 512.000000 Link delay 0.170648
+#Link between Hastings 0 and Dover 0 of speed 19200, costing 744
+#No messages 29.200001 Mess len 512.000000 Link delay 0.120482
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Hastings 0 and London 0 of speed 9600, costing 72
+#No messages 4.300000 Mess len 512.000000 Link delay 0.069204
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 29.699999 Mess len 512.000000 Link delay 0.128205
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 3.555556 Dup 0.000000 Cost 2.628889 fitness 6.184444
+#and has a cost of 2160.000000
+Generation 3 
+19.669189 6.184444 29.796101
+Generation 4 produced a better network
+#Network consists of 10 links 
+#Link between Southend 0 and Dover 0 of speed 19200, costing 112
+#No messages 35.939999 Mess len 512.000000 Link delay 0.641025
+#Link between Southend 0 and Ashford 0 of speed 9600, costing 396
+#No messages 16.840000 Mess len 512.000000 Link delay 0.523560
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 13.080000 Mess len 512.000000 Link delay 0.040950
+#Link between Hastings 0 and Dover 0 of speed 4800, costing 186
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 6.300000 Mess len 512.000000 Link delay 0.032051
+#Link between Hastings 0 and Dover 0 of speed 19200, costing 744
+#No messages 18.500000 Mess len 512.000000 Link delay 0.052632
+#Link between Hastings 0 and Chatham 0 of speed 4800, costing 60
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Chatham 0 and London 0 of speed 4800, costing 62
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 2.444444 Dup 0.000000 Cost 2.326667 fitness 4.771111
+#and has a cost of 1716.000000
+Generation 4 
+18.342798 4.771111 28.037844
+Generation 5 
+16.432238 6.931111 27.798517
+Generation 6 
+14.877337 6.373333 29.729095
+Generation 7 
+13.643883 5.671111 28.614777
+Generation 8 
+12.803262 5.173333 27.730810
+Generation 9 produced a better network
+#Network consists of 11 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 13.080000 Mess len 512.000000 Link delay 0.040950
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Ashford 0 of speed 4800, costing 198
+#No messages 6.200000 Mess len 512.000000 Link delay 0.314961
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 13.980000 Mess len 512.000000 Link delay 0.209644
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 22.039999 Mess len 512.000000 Link delay 0.064683
+#Link between Hastings 0 and Ashford 0 of speed 19200, costing 640
+#No messages 4.240000 Mess len 512.000000 Link delay 0.030066
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 23.379999 Mess len 512.000000 Link delay 0.070822
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 6.400000 Mess len 512.000000 Link delay 0.080972
+#Link between Chatham 0 and Ashford 0 of speed 4800, costing 164
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 2.000000 Dup 0.000000 Cost 2.163333 fitness 4.163333
+#and has a cost of 1718.000000
+Generation 9 
+12.363330 4.163333 27.390741
+Generation 10 
+11.451751 4.270000 27.604267
+Generation 11 
+10.673725 4.342222 27.112196
+Generation 12 
+9.928248 4.246667 26.766062
+Generation 13 
+9.174519 4.246667 26.442141
+Generation 14 produced a better network
+#Network consists of 8 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.040000 Mess len 512.000000 Link delay 0.033944
+#Link between Southend 0 and Chatham 0 of speed 19200, costing 120
+#No messages 27.939999 Mess len 512.000000 Link delay 0.104602
+#Link between Hastings 0 and London 0 of speed 9600, costing 72
+#No messages 4.940000 Mess len 512.000000 Link delay 0.072411
+#Link between Hastings 0 and Ashford 0 of speed 19200, costing 640
+#No messages 17.340000 Mess len 512.000000 Link delay 0.049603
+#Link between Dover 0 and Ashford 0 of speed 19200, costing 600
+#No messages 29.699999 Mess len 512.000000 Link delay 0.128205
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 30.000000 Mess len 512.000000 Link delay 0.133333
+#Link between Dover 0 and London 0 of speed 4800, costing 94
+#No messages 0.100000 Mess len 512.000000 Link delay 0.107817
+#Link between Chatham 0 and Ashford 0 of speed 4800, costing 164
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 2.000000 Dup 0.000000 Cost 2.126667 fitness 4.126667
+#and has a cost of 1750.000000
+Generation 14 
+8.667735 4.126667 24.891022
+Generation 15 produced a better network
+#Network consists of 12 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Dover 0 of speed 19200, costing 112
+#No messages 15.980000 Mess len 512.000000 Link delay 0.046468
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 17.100000 Mess len 512.000000 Link delay 0.049020
+#Link between Hastings 0 and Ashford 0 of speed 19200, costing 640
+#No messages 3.500000 Mess len 512.000000 Link delay 0.029412
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 18.440001 Mess len 512.000000 Link delay 0.052466
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 13.340000 Mess len 512.000000 Link delay 0.184843
+#Link between London 0 and Hastings 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Ashford 0 and London 0 of speed 9600, costing 140
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 2.120000 fitness 2.120000
+#and has a cost of 1612.000000
+Generation 15 
+7.785004 2.120000 24.891022
+Generation 16 
+7.229740 2.120000 25.085318
+Generation 17 
+6.825091 2.120000 24.198723
+Generation 18 produced a better network
+#Network consists of 11 links 
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Southend 0 and Dover 0 of speed 19200, costing 112
+#No messages 15.980000 Mess len 512.000000 Link delay 0.046468
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Hastings 0 and Ashford 0 of speed 19200, costing 640
+#No messages 3.500000 Mess len 512.000000 Link delay 0.029412
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 17.100000 Mess len 512.000000 Link delay 0.049020
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 13.340000 Mess len 512.000000 Link delay 0.184843
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 18.440001 Mess len 512.000000 Link delay 0.052466
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 9600, costing 140
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 2.057778 fitness 2.057778
+#and has a cost of 1612.000000
+Generation 18 
+5.975465 2.057778 23.082508
+Generation 19 
+5.801784 2.077778 26.068932
+Generation 20 
+5.243167 2.120000 25.184206
+Generation 21 produced a better network
+#Network consists of 11 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Dover 0 of speed 19200, costing 112
+#No messages 15.980000 Mess len 512.000000 Link delay 0.046468
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 17.100000 Mess len 512.000000 Link delay 0.049020
+#Link between Hastings 0 and Ashford 0 of speed 19200, costing 640
+#No messages 3.500000 Mess len 512.000000 Link delay 0.029412
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 18.440001 Mess len 512.000000 Link delay 0.052466
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 13.340000 Mess len 512.000000 Link delay 0.184843
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.964444 fitness 1.964444
+#and has a cost of 1612.000000
+Generation 21 
+4.952415 1.964444 25.184206
+Generation 22 
+4.864181 1.964444 21.559614
+Generation 23 produced a better network
+#Network consists of 10 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Dover 0 of speed 19200, costing 112
+#No messages 15.980000 Mess len 512.000000 Link delay 0.046468
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 17.100000 Mess len 512.000000 Link delay 0.049020
+#Link between Hastings 0 and Ashford 0 of speed 19200, costing 640
+#No messages 3.500000 Mess len 512.000000 Link delay 0.029412
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 18.440001 Mess len 512.000000 Link delay 0.052466
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 13.340000 Mess len 512.000000 Link delay 0.184843
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.902222 fitness 1.902222
+#and has a cost of 1612.000000
+Generation 23 
+4.480069 1.902222 20.262350
+Generation 24 
+4.119802 1.902222 21.455149
+Generation 25 produced a better network
+#Network consists of 12 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Dover 0 of speed 19200, costing 112
+#No messages 15.980000 Mess len 512.000000 Link delay 0.046468
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 17.100000 Mess len 512.000000 Link delay 0.049020
+#Link between Hastings 0 and Ashford 0 of speed 9600, costing 320
+#No messages 3.500000 Mess len 512.000000 Link delay 0.065574
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 18.440001 Mess len 512.000000 Link delay 0.052466
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 13.340000 Mess len 512.000000 Link delay 0.184843
+#Link between Dover 0 and Ashford 0 of speed 2400, costing 75
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Chatham 0 and London 0 of speed 9600, costing 124
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.767778 fitness 1.767778
+#and has a cost of 1292.000000
+Generation 25 
+3.797075 1.767778 21.222548
+Generation 26 
+3.422556 1.767778 21.241077
+Generation 27 produced a better network
+#Network consists of 11 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Dover 0 of speed 19200, costing 112
+#No messages 15.980000 Mess len 512.000000 Link delay 0.046468
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 15.100000 Mess len 512.000000 Link delay 0.044643
+#Link between Hastings 0 and Ashford 0 of speed 4800, costing 160
+#No messages 1.500000 Mess len 512.000000 Link delay 0.126984
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Dover 0 and Ashford 0 of speed 2400, costing 75
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.452222 fitness 1.452222
+#and has a cost of 1132.000000
+Generation 27 
+3.572559 1.452222 19.341135
+Generation 28 
+3.268608 1.608889 18.757906
+Generation 29 
+3.356018 1.462222 20.070482
+Generation 30 produced a better network
+#Network consists of 10 links 
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Southend 0 and Dover 0 of speed 19200, costing 112
+#No messages 15.980000 Mess len 512.000000 Link delay 0.046468
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Ashford 0 and Hastings 0 of speed 4800, costing 160
+#No messages 1.500000 Mess len 512.000000 Link delay 0.126984
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 15.100000 Mess len 512.000000 Link delay 0.044643
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.413333 fitness 1.413333
+#and has a cost of 1132.000000
+Generation 30 
+3.083257 1.413333 19.075718
+Generation 31 
+3.087075 1.413333 19.531237
+Generation 32 produced a better network
+#Network consists of 12 links 
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Southend 0 and Dover 0 of speed 19200, costing 112
+#No messages 15.980000 Mess len 512.000000 Link delay 0.046468
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 15.100000 Mess len 512.000000 Link delay 0.044643
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.357778 fitness 1.357778
+#and has a cost of 1052.000000
+Generation 32 
+3.034754 1.357778 21.521940
+Generation 33 produced a better network
+#Network consists of 10 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 15.980000 Mess len 512.000000 Link delay 0.361011
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 15.100000 Mess len 512.000000 Link delay 0.044643
+#Link between Hastings 0 and Ashford 0 of speed 4800, costing 160
+#No messages 1.500000 Mess len 512.000000 Link delay 0.126984
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.306667 fitness 1.306667
+#and has a cost of 1076.000000
+Generation 33 
+2.799743 1.306667 20.077133
+Generation 34 
+3.069203 1.306667 19.108864
+Generation 35 
+3.357260 1.306667 20.657743
+Generation 36 
+2.836430 1.315556 19.677652
+Generation 37 
+2.870978 1.306667 19.423697
+Generation 38 
+2.522604 1.306667 19.459253
+Generation 39 
+2.817228 1.306667 19.694912
+Generation 40 produced a better network
+#Network consists of 9 links 
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 15.980000 Mess len 512.000000 Link delay 0.361011
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Hastings 0 and Ashford 0 of speed 4800, costing 160
+#No messages 1.500000 Mess len 512.000000 Link delay 0.126984
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 15.100000 Mess len 512.000000 Link delay 0.044643
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.273333 fitness 1.273333
+#and has a cost of 1076.000000
+Generation 40 
+2.745669 1.273333 21.423952
+Generation 41 produced a better network
+#Network consists of 11 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Chatham 0 of speed 4800, costing 30
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 15.980000 Mess len 512.000000 Link delay 0.361011
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Chatham 0 and Hastings 0 of speed 9600, costing 120
+#No messages 15.100000 Mess len 512.000000 Link delay 0.273973
+#Link between Hastings 0 and Ashford 0 of speed 4800, costing 160
+#No messages 1.500000 Mess len 512.000000 Link delay 0.126984
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Dover 0 and Chatham 0 of speed 4800, costing 8
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.182222 fitness 1.182222
+#and has a cost of 956.000000
+Generation 41 
+2.911383 1.182222 20.496613
+Generation 42 
+3.246461 1.226667 20.695364
+Generation 43 
+2.936375 1.226667 22.347252
+Generation 44 
+2.961936 1.226667 20.154484
+Generation 45 produced a better network
+#Network consists of 9 links 
+#Link between Southend 0 and London 0 of speed 9600, costing 96
+#No messages 6.540000 Mess len 512.000000 Link delay 0.081900
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 13.639999 Mess len 512.000000 Link delay 0.195695
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 17.440001 Mess len 512.000000 Link delay 0.049850
+#Link between Hastings 0 and Ashford 0 of speed 4800, costing 160
+#No messages 1.500000 Mess len 512.000000 Link delay 0.126984
+#Link between Hastings 0 and London 0 of speed 9600, costing 72
+#No messages 6.540000 Mess len 512.000000 Link delay 0.081900
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 18.100000 Mess len 512.000000 Link delay 0.051546
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.167778 fitness 1.167778
+#and has a cost of 1016.000000
+Generation 45 
+2.650336 1.167778 21.924675
+Generation 46 
+2.993812 1.226667 19.827030
+Generation 47 
+2.846611 1.187778 21.243143
+Generation 48 
+3.386550 1.193333 21.445299
+Generation 49 
+2.522294 1.187778 20.734610
+Generation 50 
+2.641398 1.187778 22.138214
+Generation 51 produced a better network
+#Network consists of 10 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 15.980000 Mess len 512.000000 Link delay 0.361011
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 15.100000 Mess len 512.000000 Link delay 0.044643
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Dover 0 and Chatham 0 of speed 4800, costing 8
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.154444 fitness 1.154444
+#and has a cost of 996.000000
+Generation 51 
+2.936210 1.154444 19.787031
+Generation 52 
+2.801178 1.154444 19.684013
+Generation 53 produced a better network
+#Network consists of 9 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 15.980000 Mess len 512.000000 Link delay 0.361011
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 15.100000 Mess len 512.000000 Link delay 0.044643
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.145555 fitness 1.145555
+#and has a cost of 996.000000
+Generation 53 
+3.276204 1.145555 20.798166
+Generation 54 
+3.031851 1.145555 19.548141
+Generation 55 produced a better network
+#Network consists of 10 links 
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 15.980000 Mess len 512.000000 Link delay 0.361011
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Chatham 0 and Hastings 0 of speed 9600, costing 120
+#No messages 15.100000 Mess len 512.000000 Link delay 0.273973
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Dover 0 and Chatham 0 of speed 4800, costing 8
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Ashford 0 and London 0 of speed 4800, costing 70
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.060000 fitness 1.060000
+#and has a cost of 876.000000
+Generation 55 
+2.886688 1.060000 22.211536
+Generation 56 produced a better network
+#Network consists of 10 links 
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 15.980000 Mess len 512.000000 Link delay 0.361011
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 4.200000 Mess len 512.000000 Link delay 0.193237
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Hastings 0 and Chatham 0 of speed 9600, costing 120
+#No messages 15.100000 Mess len 512.000000 Link delay 0.273973
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Dover 0 and Chatham 0 of speed 4800, costing 8
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 1.021111 fitness 1.021111
+#and has a cost of 876.000000
+Generation 56 
+2.989205 1.021111 19.880272
+Generation 57 produced a better network
+#Network consists of 10 links 
+#Link between Southend 0 and London 0 of speed 4800, costing 48
+#No messages 6.540000 Mess len 512.000000 Link delay 0.352734
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 13.639999 Mess len 512.000000 Link delay 0.195695
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Hastings 0 and Chatham 0 of speed 19200, costing 240
+#No messages 17.440001 Mess len 512.000000 Link delay 0.049850
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Hastings 0 and London 0 of speed 4800, costing 36
+#No messages 6.540000 Mess len 512.000000 Link delay 0.352734
+#Link between Dover 0 and Chatham 0 of speed 4800, costing 8
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 18.100000 Mess len 512.000000 Link delay 0.051546
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 0.994444 fitness 0.994444
+#and has a cost of 852.000000
+Generation 57 
+3.024229 0.994444 24.435444
+Generation 58 
+3.276213 1.021111 23.598148
+Generation 59 
+2.918411 1.021111 19.698141
+Generation 60 
+2.740578 1.145555 19.698141
+Generation 61 
+2.657851 1.047778 19.604914
+Generation 62 
+2.727743 1.047778 20.930140
+Generation 63 
+3.018905 1.038889 23.580370
+Generation 64 
+3.108860 1.047778 20.029030
+Generation 65 
+2.997227 1.047778 19.737030
+Generation 66 
+3.354882 1.047778 21.727541
+Generation 67 
+3.278116 1.047778 22.684769
+Generation 68 
+3.606523 1.145555 20.881092
+Generation 69 
+3.629694 1.145555 23.421535
+Generation 70 
+3.302013 1.145555 21.309221
+Generation 71 
+2.985528 1.145555 23.367874
+Generation 72 
+2.930294 1.127778 19.775919
+Generation 73 
+3.112912 1.127778 23.484869
+Generation 74 
+2.679544 1.127778 20.375374
+Generation 75 
+2.686409 1.125556 23.638147
+Generation 76 
+2.994641 1.127778 19.853697
+Generation 77 
+3.389606 1.127778 23.029778
+Generation 78 
+2.947183 1.125556 20.642094
+Generation 79 
+3.223374 1.125556 23.243793
+Generation 80 
+3.359777 1.125556 23.043369
+Generation 81 
+3.184929 1.125556 22.326914
+Generation 82 
+3.687942 1.125556 20.735502
+Generation 83 
+3.185114 1.125556 21.900389
+Generation 84 
+3.311030 1.107778 21.738859
+Generation 85 
+3.765195 1.107778 21.535158
+Generation 86 
+4.116941 1.107778 21.892092
+Generation 87 
+3.146315 1.107778 22.098166
+Generation 88 produced a better network
+#Network consists of 9 links 
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 12.800000 Mess len 512.000000 Link delay 0.168067
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 15.980000 Mess len 512.000000 Link delay 0.361011
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Hastings 0 and London 0 of speed 2400, costing 18
+#No messages 4.200000 Mess len 512.000000 Link delay 2.051281
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Chatham 0 and Hastings 0 of speed 9600, costing 120
+#No messages 15.100000 Mess len 512.000000 Link delay 0.273973
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Dover 0 and Chatham 0 of speed 19200, costing 32
+#No messages 20.440001 Mess len 512.000000 Link delay 0.058617
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 0.992222 fitness 0.992222
+#and has a cost of 858.000000
+Generation 88 
+2.703200 0.992222 21.643147
+Generation 89 
+3.253747 1.018889 21.733723
+Generation 90 
+3.429868 1.107778 22.035593
+Generation 91 
+3.560117 1.107778 22.102612
+Generation 92 
+3.258359 1.107778 22.069347
+Generation 93 
+3.231035 1.107778 23.735580
+Generation 94 
+3.144746 1.107778 21.328888
+Generation 95 
+3.277387 1.107778 22.306913
+Generation 96 
+3.397937 1.107778 23.281042
+Generation 97 
+3.793928 1.107778 22.306913
+Generation 98 
+3.733397 1.107778 24.284451
+Generation 99 
+3.884909 1.107778 23.352516
+Generation 100 
+3.536052 1.107778 21.923122
+Generation 101 
+4.089934 1.107778 22.658707
+Generation 102 produced a better network
+#Network consists of 9 links 
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 15.140000 Mess len 512.000000 Link delay 0.277008
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 13.639999 Mess len 512.000000 Link delay 0.195695
+#Link between Southend 0 and London 0 of speed 19200, costing 192
+#No messages 8.879999 Mess len 512.000000 Link delay 0.034941
+#Link between Hastings 0 and London 0 of speed 2400, costing 18
+#No messages 4.200000 Mess len 512.000000 Link delay 2.051281
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Chatham 0 and Hastings 0 of speed 9600, costing 120
+#No messages 15.100000 Mess len 512.000000 Link delay 0.273973
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Dover 0 and Chatham 0 of speed 9600, costing 16
+#No messages 18.100000 Mess len 512.000000 Link delay 1.538462
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 0.974444 fitness 0.974444
+#and has a cost of 842.000000
+Generation 102 
+3.404252 0.974444 21.584391
+Generation 103 
+3.126209 0.974444 22.559599
+Generation 104 
+3.476944 0.974444 23.926403
+Generation 105 
+3.426715 0.974444 21.475199
+Generation 106 
+3.642672 0.974444 23.271936
+Generation 107 produced a better network
+#Network consists of 9 links 
+#Link between Southend 0 and London 0 of speed 9600, costing 96
+#No messages 8.879999 Mess len 512.000000 Link delay 0.101317
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 13.639999 Mess len 512.000000 Link delay 0.195695
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 15.140000 Mess len 512.000000 Link delay 0.277008
+#Link between Hastings 0 and Chatham 0 of speed 9600, costing 120
+#No messages 15.100000 Mess len 512.000000 Link delay 0.273973
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Hastings 0 and London 0 of speed 2400, costing 18
+#No messages 4.200000 Mess len 512.000000 Link delay 2.051281
+#Link between Dover 0 and Chatham 0 of speed 9600, costing 16
+#No messages 18.100000 Mess len 512.000000 Link delay 1.538462
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 0.867778 fitness 0.867778
+#and has a cost of 746.000000
+Generation 107 
+3.376967 0.867778 21.704269
+Generation 108 
+3.589018 0.974444 23.603758
+Generation 109 
+3.390469 0.974444 23.554737
+Generation 110 
+4.236010 0.974444 21.440754
+Generation 111 
+3.704685 0.974444 21.187376
+Generation 112 
+3.292689 0.974444 21.995014
+Generation 113 
+3.278268 0.974444 22.518131
+Generation 114 
+3.325429 0.974444 23.603758
+Generation 115 
+2.950515 0.974444 22.293015
+Generation 116 
+3.098534 0.974444 21.249903
+Generation 117 
+2.879379 0.974444 23.386160
+Generation 118 
+3.076406 0.974444 20.956211
+Generation 119 
+3.311220 0.974444 23.408203
+Generation 120 
+3.299870 0.974444 22.339260
+Generation 121 
+3.070872 0.974444 21.056017
+Generation 122 
+3.080642 0.867778 22.017342
+Generation 123 
+3.441671 0.867778 22.196865
+Generation 124 
+3.309031 0.867778 22.581465
+Generation 125 
+2.983502 0.974444 20.788317
+Generation 126 
+3.250776 0.867778 22.184643
+Generation 127 
+3.283837 0.974444 20.005028
+Generation 128 
+3.197834 0.974444 22.030682
+Generation 129 
+3.043687 0.974444 20.019958
+Generation 130 
+3.564283 0.974444 22.785677
+Generation 131 
+3.859161 0.974444 22.241831
+Generation 132 
+3.251280 0.974444 23.068697
+Generation 133 
+3.330809 0.974444 21.099058
+Generation 134 
+3.255152 0.974444 21.843853
+Generation 135 
+3.409478 0.974444 23.568417
+Generation 136 
+2.944116 0.867778 24.085201
+Generation 137 
+3.522240 0.974444 20.514675
+Generation 138 
+3.273191 0.974444 24.128735
+Generation 139 
+3.502920 0.974444 22.869875
+Generation 140 
+3.315194 0.974444 22.992344
+Generation 141 
+3.331610 0.974444 20.956211
+Generation 142 
+3.503299 0.974444 22.787899
+Generation 143 
+2.954277 0.867778 22.702688
+Generation 144 
+3.256101 0.867778 21.178539
+Generation 145 
+2.845586 0.867778 20.571314
+Generation 146 
+3.576927 0.867778 23.371256
+Generation 147 
+3.642780 0.867778 24.018154
+Generation 148 
+3.431692 0.867778 22.052769
+Generation 149 
+3.428305 0.867778 23.170876
+Generation 150 
+2.794625 0.867778 21.253593
+Generation 151 
+3.395793 0.867778 21.253593
+Generation 152 
+3.233407 0.867778 21.843853
+Generation 153 
+3.058811 0.867778 22.983938
+Generation 154 
+2.841053 0.867778 20.475502
+Generation 155 
+3.319581 0.867778 22.008383
+Generation 156 
+3.166299 0.867778 21.891068
+Generation 157 
+3.000112 0.867778 21.536350
+Generation 158 
+2.924572 0.867778 19.768101
+Generation 159 
+2.806048 0.867778 23.325537
+Generation 160 
+2.721423 0.867778 23.130667
+Generation 161 
+3.299869 0.867778 22.679153
+Generation 162 
+2.645314 0.867778 21.532795
+Generation 163 
+2.710038 0.867778 21.583853
+Generation 164 
+3.212476 0.867778 24.146229
+Generation 165 
+3.520446 0.867778 21.727974
+Generation 166 
+3.000807 0.867778 19.873291
+Generation 167 
+2.819173 0.867778 21.249199
+Generation 168 
+2.453741 0.867778 22.961868
+Generation 169 
+3.238847 0.867778 22.533466
+Generation 170 
+3.479793 0.867778 22.008383
+Generation 171 
+3.753391 0.867778 21.910809
+Generation 172 
+3.313234 0.867778 24.552370
+Generation 173 
+3.519246 0.867778 23.461750
+Generation 174 
+3.773596 0.867778 21.376812
+Generation 175 
+3.677770 0.867778 23.234737
+Generation 176 
+3.225541 0.867778 21.921724
+Generation 177 
+3.414401 0.867778 21.031696
+Generation 178 
+3.026494 0.867778 20.436832
+Generation 179 
+2.933335 0.867778 20.077919
+Generation 180 
+3.022271 0.867778 20.628054
+Generation 181 
+3.256716 0.867778 19.993292
+Generation 182 
+2.958515 0.867778 22.885818
+Generation 183 
+2.898162 0.867778 22.695700
+Generation 184 
+2.755383 0.867778 21.103502
+Generation 185 
+3.440297 0.867778 22.199440
+Generation 186 
+3.462428 0.867778 19.873291
+Generation 187 
+3.866682 0.867778 22.940825
+Generation 188 
+3.269427 0.867778 22.135164
+Generation 189 
+3.027465 0.867778 21.016142
+Generation 190 
+3.144500 0.867778 21.806168
+Generation 191 
+3.504840 0.867778 23.604589
+Generation 192 
+3.678701 0.867778 24.306057
+Generation 193 
+3.690462 0.867778 23.278070
+Generation 194 
+2.887717 0.867778 20.398298
+Generation 195 
+2.769707 0.867778 21.536350
+Generation 196 
+2.789298 0.867778 21.001789
+Generation 197 
+3.350072 0.867778 25.932720
+Generation 198 
+2.799935 0.867778 22.699326
+Generation 199 
+2.991259 0.867778 19.881557
+Generation 200 
+3.013227 0.867778 22.587019
+Generation 201 
+2.798769 0.867778 21.831501
+Generation 202 
+3.101754 0.867778 20.605331
+Generation 203 
+3.197706 0.867778 19.725922
+Generation 204 
+3.087426 0.867778 20.464647
+Generation 205 
+3.188806 0.867778 20.421392
+Generation 206 
+3.191177 0.867778 23.056381
+Generation 207 
+3.433592 0.867778 23.007271
+Generation 208 
+2.879572 0.867778 25.137074
+Generation 209 
+3.303135 0.867778 22.578131
+Generation 210 
+3.140821 0.867778 21.290920
+Generation 211 
+2.757514 0.867778 21.013594
+Generation 212 
+2.970659 0.867778 23.713400
+Generation 213 
+3.288257 0.867778 21.093643
+Generation 214 
+3.136091 0.867778 19.725922
+Generation 215 
+3.469458 0.867778 22.547132
+Generation 216 
+3.010389 0.867778 23.547104
+Generation 217 
+2.861482 0.867778 26.248350
+Generation 218 
+3.181763 0.867778 22.885818
+Generation 219 
+3.101291 0.867778 20.645477
+Generation 220 
+3.617709 0.867778 22.702688
+Generation 221 
+3.474633 0.867778 23.279493
+Generation 222 
+3.369943 0.867778 23.493084
+Generation 223 
+3.076382 0.867778 22.341663
+Generation 224 
+2.945854 0.867778 23.371256
+Generation 225 
+3.385238 0.867778 23.305981
+Generation 226 
+2.684054 0.867778 22.090199
+Generation 227 
+2.814561 0.867778 19.993292
+Generation 228 
+3.283201 0.867778 19.800373
+Generation 229 
+3.254564 0.867778 22.149183
+Generation 230 
+3.064449 0.867778 22.008383
+Generation 231 
+3.505169 0.867778 22.008383
+Generation 232 
+3.029478 0.867778 23.515701
+Generation 233 
+3.189689 0.867778 24.377869
+Generation 234 
+3.426563 0.867778 22.696932
+Generation 235 
+3.270379 0.867778 22.265926
+Generation 236 
+3.234010 0.867778 21.721308
+Generation 237 
+3.187288 0.867778 21.032482
+Generation 238 
+2.957676 0.867778 21.549410
+Generation 239 
+4.158978 0.867778 24.555704
+Generation 240 
+3.550586 0.867778 23.586735
+Generation 241 
+3.882695 0.867778 24.174091
+Generation 242 
+3.528536 0.867778 23.305849
+Generation 243 
+3.327557 0.867778 22.730265
+Generation 244 
+2.937315 0.867778 22.502575
+Generation 245 
+2.988598 0.867778 22.004053
+Generation 246 
+2.880505 0.867778 21.888348
+Generation 247 
+3.357997 0.867778 23.332594
+Generation 248 
+3.641450 0.867778 23.324589
+Generation 249 
+2.548454 0.867778 21.882948
+Generation 250 
+2.977816 0.867778 20.634722
+Generation 251 
+3.153817 0.867778 22.730265
+Generation 252 
+3.096248 0.867778 22.581465
+Generation 253 
+3.072707 0.867778 23.497091
+Generation 254 
+3.010567 0.867778 22.528042
+Generation 255 
+3.597530 0.867778 21.122482
+Generation 256 
+2.916280 0.867778 21.238039
+Generation 257 
+2.786981 0.867778 20.487724
+Generation 258 
+3.139465 0.867778 21.031696
+Generation 259 
+3.353702 0.867778 23.768957
+Generation 260 
+3.271209 0.867778 22.661257
+Generation 261 
+3.545611 0.867778 23.210604
+Generation 262 
+3.609166 0.867778 23.862576
+Generation 263 
+3.105281 0.867778 20.817217
+Generation 264 
+3.405239 0.867778 21.888348
+Generation 265 
+2.949592 0.867778 22.008383
+Generation 266 
+3.233238 0.867778 20.992834
+Generation 267 
+4.035890 0.867778 20.571526
+Generation 268 
+3.031448 0.867778 20.992392
+Generation 269 
+3.396112 0.867778 20.502216
+Generation 270 
+3.363956 0.867778 22.145741
+Generation 271 
+3.044921 0.867778 20.875698
+Generation 272 
+3.043008 0.867778 22.696932
+Generation 273 
+3.234452 0.867778 20.928745
+Generation 274 
+3.256833 0.867778 20.550470
+Generation 275 
+3.053690 0.867778 23.145269
+Generation 276 
+2.902969 0.867778 20.992834
+Generation 277 
+3.298494 0.867778 23.497091
+Generation 278 
+3.072149 0.867778 23.560438
+Generation 279 
+3.530623 0.867778 21.235815
+Generation 280 
+3.260478 0.867778 24.525703
+Generation 281 
+3.541154 0.867778 21.961723
+Generation 282 
+3.686356 0.867778 22.976379
+Generation 283 
+3.652584 0.867778 22.008383
+Generation 284 
+3.164312 0.867778 22.050198
+Generation 285 
+3.143347 0.867778 20.662544
+Generation 286 
+3.915456 0.867778 22.297745
+Generation 287 
+3.633008 0.867778 22.357386
+Generation 288 
+3.289127 0.867778 21.941715
+Generation 289 
+3.628092 0.867778 22.490524
+Generation 290 
+3.139960 0.867778 20.788788
+Generation 291 
+3.075243 0.867778 21.944592
+Generation 292 
+3.395723 0.867778 20.467148
+Generation 293 
+2.612623 0.867778 21.532795
+Generation 294 
+3.158442 0.867778 23.547104
+Generation 295 
+3.155334 0.867778 23.075850
+Generation 296 
+3.609850 0.867778 23.245850
+Generation 297 
+3.081783 0.867778 21.394756
+Generation 298 
+2.942057 0.867778 20.589439
+Generation 299 
+2.944910 0.867778 23.305849
+Generation 300 
+2.834440 0.867778 20.852180
+Generation 301 
+3.188422 0.867778 23.995857
+Generation 302 
+3.512782 0.867778 22.931936
+Generation 303 
+3.463169 0.867778 20.918249
+Generation 304 
+3.146116 0.867778 23.403627
+Generation 305 
+3.343270 0.867778 23.604881
+Generation 306 
+2.642400 0.867778 20.464647
+Generation 307 
+3.080212 0.867778 21.536350
+Generation 308 
+3.612921 0.867778 23.629740
+Generation 309 
+3.567144 0.867778 22.995049
+Generation 310 
+3.348868 0.867778 20.992392
+Generation 311 
+3.125051 0.867778 20.440798
+Generation 312 
+3.381945 0.867778 22.173944
+Generation 313 
+3.345809 0.867778 20.830822
+Generation 314 
+2.800203 0.867778 20.928745
+Generation 315 
+2.866264 0.867778 20.905254
+Generation 316 
+3.235987 0.867778 21.770521
+Generation 317 
+3.335066 0.867778 20.873919
+Generation 318 
+2.853741 0.867778 19.949505
+Generation 319 
+2.913385 0.867778 21.400309
+Generation 320 
+3.600680 0.867778 20.965940
+Generation 321 
+3.467789 0.867778 20.859501
+Generation 322 
+2.982560 0.867778 23.651196
+Generation 323 
+3.144635 0.867778 23.585623
+Generation 324 
+3.705557 0.867778 24.128227
+Generation 325 
+3.818391 0.867778 24.534592
+Generation 326 
+3.121806 0.867778 23.651196
+Generation 327 
+3.132715 0.867778 23.578640
+Generation 328 
+3.123468 0.867778 22.801830
+Generation 329 
+3.370780 0.867778 23.515701
+Generation 330 
+3.133887 0.867778 20.464647
+Generation 331 
+3.112098 0.867778 22.931936
+Generation 332 
+2.990841 0.867778 20.398298
+Generation 333 
+2.798154 0.867778 19.725922
+Generation 334 
+2.948007 0.867778 23.256195
+Generation 335 
+3.158876 0.867778 19.848883
+Generation 336 
+3.516355 0.867778 21.756168
+Generation 337 
+3.297668 0.867778 20.757645
+Generation 338 
+3.496136 0.867778 19.725922
+Generation 339 
+2.943849 0.867778 22.008383
+Generation 340 
+2.676870 0.867778 22.795609
+Generation 341 
+2.992794 0.867778 20.722364
+Generation 342 
+2.914272 0.867778 21.451357
+Generation 343 
+3.088644 0.867778 20.976053
+Generation 344 
+2.955224 0.867778 22.260548
+Generation 345 
+3.009597 0.867778 23.581549
+Generation 346 
+2.915691 0.867778 23.700830
+Generation 347 
+2.288506 0.867778 23.461750
+Generation 348 
+2.765746 0.867778 20.992392
+Generation 349 
+2.747662 0.867778 21.532795
+Generation 350 
+3.081701 0.867778 21.536350
+Generation 351 
+3.183121 0.867778 21.922575
+Generation 352 
+3.274171 0.867778 19.725922
+Generation 353 
+2.937650 0.867778 23.562660
+Generation 354 
+3.137511 0.867778 22.013685
+Generation 355 
+3.125577 0.867778 23.676115
+Generation 356 
+3.001514 0.867778 20.737206
+Generation 357 
+3.669799 0.867778 24.174091
+Generation 358 
+3.371631 0.867778 24.339581
+Generation 359 
+2.906756 0.867778 21.541632
+Generation 360 
+3.221066 0.867778 22.050547
+Generation 361 
+2.790683 0.867778 20.992392
+Generation 362 
+3.347275 0.867778 22.709970
+Generation 363 
+2.743979 0.867778 22.980526
+Generation 364 
+3.288049 0.867778 23.302368
+Generation 365 
+3.187755 0.867778 23.267178
+Generation 366 
+2.825899 0.867778 20.645477
+Generation 367 
+3.185376 0.867778 22.392706
+Generation 368 
+3.481470 0.867778 21.937874
+Generation 369 
+3.591545 0.867778 23.495983
+Generation 370 
+3.027604 0.867778 21.238039
+Generation 371 
+3.065469 0.867778 22.587019
+Generation 372 
+2.886115 0.867778 21.349461
+Generation 373 
+3.381396 0.867778 21.961723
+Generation 374 
+3.274016 0.867778 23.488249
+Generation 375 
+3.116502 0.867778 19.742588
+Generation 376 
+3.321142 0.867778 22.709970
+Generation 377 
+3.317006 0.867778 21.016142
+Generation 378 
+3.652835 0.867778 21.770521
+Generation 379 
+3.415919 0.867778 21.532795
+Generation 380 
+2.937949 0.867778 20.665627
+Generation 381 
+3.722498 0.867778 21.356613
+Generation 382 
+3.256404 0.867778 23.497091
+Generation 383 
+3.623315 0.867778 23.768957
+Generation 384 
+3.549068 0.867778 23.145269
+Generation 385 
+3.508590 0.867778 20.512636
+Generation 386 
+2.976356 0.867778 22.341663
+Generation 387 
+3.123815 0.867778 19.848883
+Generation 388 
+3.605051 0.867778 23.322861
+Generation 389 
+3.220070 0.867778 22.916418
+Generation 390 
+3.880749 0.867778 20.992392
+Generation 391 
+3.459507 0.867778 24.525703
+Generation 392 
+2.805304 0.867778 22.008383
+Generation 393 
+3.026691 0.867778 21.727974
+Generation 394 
+2.497754 0.867778 19.794809
+Generation 395 
+3.198755 0.867778 22.030548
+Generation 396 
+3.638459 0.867778 22.008383
+Generation 397 
+3.214308 0.867778 23.468390
+Generation 398 
+3.644810 0.867778 20.969200
+Generation 399 
+3.372645 0.867778 25.249073
+Generation 400 
+3.664824 0.867778 20.833920
+#Network consists of 9 links 
+#Link between Southend 0 and London 0 of speed 9600, costing 96
+#No messages 8.879999 Mess len 512.000000 Link delay 0.101317
+#Link between Southend 0 and Dover 0 of speed 9600, costing 56
+#No messages 13.639999 Mess len 512.000000 Link delay 0.195695
+#Link between Southend 0 and Chatham 0 of speed 9600, costing 60
+#No messages 15.140000 Mess len 512.000000 Link delay 0.277008
+#Link between Hastings 0 and Chatham 0 of speed 9600, costing 120
+#No messages 15.100000 Mess len 512.000000 Link delay 0.273973
+#Link between Hastings 0 and Ashford 0 of speed 2400, costing 80
+#No messages 1.500000 Mess len 512.000000 Link delay 0.313726
+#Link between Hastings 0 and London 0 of speed 2400, costing 18
+#No messages 4.200000 Mess len 512.000000 Link delay 2.051281
+#Link between Dover 0 and Chatham 0 of speed 9600, costing 16
+#No messages 18.100000 Mess len 512.000000 Link delay 1.538462
+#Link between Dover 0 and Ashford 0 of speed 9600, costing 300
+#No messages 15.340000 Mess len 512.000000 Link delay 0.293255
+#Link between Ashford 0 and London 0 of speed 2400, costing 35
+#No messages 0.000000 Mess len 0.000000 Link delay 0.000000
+#Factors Performance 0.000000 Conn 0.000000 Dup 0.000000 Cost 0.867778 fitness 0.867778
+#and has a cost of 746.000000
