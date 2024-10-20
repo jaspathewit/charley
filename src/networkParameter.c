@@ -48,7 +48,8 @@ NETWORK_PARAM *create_network_param(void) {
 	NETWORK_PARAM *temp = NULL;
 
 	/* try and allocate memory for the network_param structure */
-	if (temp = (NETWORK_PARAM *) malloc(sizeof(NETWORK_PARAM))) {
+	temp = (NETWORK_PARAM *) malloc(sizeof(NETWORK_PARAM));
+	if (temp != NULL) {
 		/* logger allocation successful */
 #ifdef DEBUG_MEM
     logger("Network param allocation %p",temp);
