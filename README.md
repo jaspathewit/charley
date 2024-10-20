@@ -52,14 +52,44 @@ function).
 
 ## Build and test
 
-The code has been "updated" it has been provided with a CMakeLists.txt so the normal
+The code has also been tidied up so that it compiles without warnings (apart from some weird stuff around line length
+on logging, that I have not fixed) on a modern system. I also changed all the filename from the 8.3 format (of the time)
+to long names.
 
-At the moment the code probably does not build. I have
+The code has been provided with a CMakeLists.txt
+To build it you will need to have cmake installed a C compiler and make or ninja.
 
-not tried to build it since 1995. However I have included the original makefile and all
-the source code. No external libraries were used so it should be a fairly simple matter to get it to build. I will
-update this section when I've
-had a chance to try it.
+```bash
+mkdir build
+cd build
+cmake ..
+make (or ninja)
+```
+
+Will build charley.
+
+Invoking:
+
+```bash
+charley
+```
+
+Provides a rather terse message that basically says if you want to run the program you need to be read the accompanying
+documentation. Ah! the arrogance of youth...
+
+Actually Charley only takes 2 arguments the first is the name of the file containing the network requirements that need
+to be solved and the second is the name of the file into which the results will be logged.
+
+Indeed, the file giving the network requirements is detailed in the documentation.
+
+## Reflections
+
+I have not looked at the code for over 30 years. I would certainly do things a lot differently now.
+For a start I'd probably not use C, but something else where I would not have to be so concerned with memory management
+I'd also not role my own "sort of ini file reader", the network requirements would be defined in Xml or Json or
+something else. I'd also write unit tests for the code. All these things and practices were either not common or
+not known back in 1995. Back then we had a pretty primitive IDE just a plain text editor and a command line compiler,
+all running on a 386 PC with 16MB of RAM and a 20MB hard drive, running one of the test networks would take hours.
 
 ## Contribute
 
