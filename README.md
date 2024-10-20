@@ -1,6 +1,6 @@
 # Charley a Genetic algorithm mesh network designer.
 
-This repository contain the documentation for Charley (a genetic algorithm mesh network designer) and the source code for the program.
+This repository contains the documentation for Charley (a genetic algorithm mesh network designer) and the source code for the program.
 The program was created as my final thesis project for my BSc in Computer Science at the University of Greenwich. Way back in 1995.
 
 I'm placing this on GitHub as a historical record and to avoid that the source code is lost to the great bit bucket in the sky.

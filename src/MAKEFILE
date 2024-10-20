@@ -1,0 +1,50 @@
+#
+# makefile for charley tree editor
+#
+
+# list of source files
+SRC=dup_link.c addcnrec.c addlink.c addnode.c addrtlnk.c addrtrec.c addtraff.c charinit.c charley.c chkargs.c cntlinks.c conreccd.c contivit.c copylink.c copynet.c cost.c cpyrlink.c delay.c delcnrec.c dellinks.c delnodes.c delrtlks.c delrtrec.c deltraff.c dupstr.c evolve.c filename.c findbest.c findnode.c findrrec.c fitness.c inc_buff.c inivalue.c linkcd.c logger.c mate.c mklinks.c mknet.c mknodes.c mkpop.c mktraff.c netcd.c netparcd.c nodecd.c popcd.c prncnrec.c prnlinks.c prnnet.c prnnodes.c prnntpar.c prnpop.c prnrlink.c prnrtrec.c prntraff.c randcost.c randlink.c randmess.c randmsln.c randnode.c randnum.c randsped.c read_ln.c restlink.c restnode.c routecd.c routes.c rtlinkcd.c sellink.c traffcd.c
+
+# list of object files
+OBJ=$(SRC:.c=.o)
+
+# list of header files
+HDR=network.h
+
+# target name
+TARGET=charley
+
+# library and include directories
+LIBDIR=-L/usr/lib
+INCDIR=-I/usr/include
+
+# compiler flags
+CFLAGS=-Wall -Wextra -O2 $(INCDIR)
+
+# libraries
+LIBS=-lm
+
+# compiler name
+CC=gcc
+
+# compile it
+$(TARGET): $(OBJ)
+	$(CC) -o $(TARGET) $(OBJ) $(LIBDIR) $(LIBS)
+
+# lint it
+lint:
+	lint $(SRC) | tee lint.analysis
+
+# clean up the dir
+clean:
+	rm -f $(OBJ) $(TARGET)
+
+# remove cr from the files
+cleandos:
+	bash rmcr $(SRC)
+	bash rmcr $(HDR)
+
+# list of dependencies
+%.o: %.c $(HDR)
+	$(CC) $(CFLAGS) -c $< -o $@
+
